@@ -8,4 +8,5 @@ const AdmissionTemplate = () => (
   </div>
 );
 
+// this is test commit 
 export default AdmissionTemplate;
